@@ -152,7 +152,8 @@ app.get('/', function(req, res){
 });
 ```
 
-Use
+Use:
+
 1. browser for `html`
 2. curl for `text/plain`
 3. Postman for `json`
